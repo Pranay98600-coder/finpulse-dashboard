@@ -36,16 +36,16 @@ The FinPulse Dashboard is a comprehensive financial management tool that allows 
 ## 📸 Screenshots
 
 ### 📊 Dashboard
-![Dashboard](./public/screenshots/dashboard.png)
+![Dashboard](./public/screenshots/Dashboard.png)
 
 ### 💳 Transactions
 ![Transactions](./public/screenshots/transactions.png)
 
 ### 💡 Insights
-![Insights](./public/screenshots/insights.png)
+![Insights](./public/screenshots/Insights.png)
 
 ### 🌙 Light Mode
-![LightMode](./public/screenshots/lightmode.png)
+![LightMode](./public/screenshots/Lightmode.png)
 
 ## ✨ Features Implemented
 
