@@ -36,16 +36,16 @@ The FinPulse Dashboard is a comprehensive financial management tool that allows 
 ## 📸 Screenshots
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./public/screenshots/dashboard.png)
 
 ### 💳 Transactions
-![Transactions](./screenshots/Transaction.png)
+![Transactions](./public/screenshots/transactions.png)
 
 ### 💡 Insights
-![Insights](./screenshots/Insights.png)
+![Insights](./public/screenshots/insights.png)
 
-### 🌙 Dark Mode
-![Dark Mode](./screenshots/Lightmode.png)
+### 🌙 Light Mode
+![LightMode](./public/screenshots/lightmode.png)
 
 ## ✨ Features Implemented
 
@@ -392,9 +392,9 @@ This is a portfolio project. Suggestions and feedback are welcome!
 ## 📧 Contact & Support
 
 For questions or feedback about this project:
-- 📧 Email: contact@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: salunkhepranay14@gmail.com
+- 🐙 GitHub: [Pranay98600-coder](https://github.com/Pranay98600-coder)
+- 💼 LinkedIn: [PRANAY SALUNKHE](https://www.linkedin.com/in/pranay-salunkhe-968650255/)
 
 ---
 
